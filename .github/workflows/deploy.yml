@@ -27,4 +27,4 @@ jobs:
       - name: deploy
         run: |
           # Pass the GitHub token to npm run deploy
-          npm run deploy ${{ secrets.GITHUB_TOKEN }}
+          npm run deploy
