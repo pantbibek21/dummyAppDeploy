@@ -21,9 +21,7 @@ function App() {
 				</a>
 			</div>
 			<h1>Bibek here (Aatish dai is don)</h1>
-			<h2>
-				Learning CICD (continuous integration continuous deployment)
-			</h2>
+			<h2>Learning CICD , time to test</h2>
 			<div className="card">
 				<button onClick={() => setCount((count) => count + 1)}>
 					count is {count}
